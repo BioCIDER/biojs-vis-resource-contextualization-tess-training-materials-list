@@ -39,7 +39,7 @@ iannList.getNewUrl = function(fieldText, fieldOperator, rowsNumber){
 
     }
 
-    var iannUrl = "http://localhost:8983/solr/eventsData/select/?q=field:"+urlText+"&rows="+rowsNumber+"&fl=start,title,notes&wt=json&json.wrf=?&sort=start%20asc";
+    var iannUrl = "http://localhost:8983/solr/elixirData/select/?q=field:"+urlText+"&rows="+rowsNumber+"&fl=start,title,notes&wt=json&json.wrf=?&sort=start%20asc";
 
     console.log("My url : " + iannUrl);
 
