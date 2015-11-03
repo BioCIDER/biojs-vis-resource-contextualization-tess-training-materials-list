@@ -1,5 +1,7 @@
 # biojs-vis-events
 
+BETA COMPONENT
+
 [![NPM version](http://img.shields.io/npm/v/biojs-vis-events.svg)](https://www.npmjs.org/package/biojs-vis-events) 
 [![Build Status](https://secure.travis-ci.org/marcoantonioburgin/biojs-vis-events.png?branch=master)](http://travis-ci.org/marcoantonioburgin/biojs-vis-events) 
 
